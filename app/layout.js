@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Lista de Nomes",
+  title: "Minha linda família: eu e minha família serviremos a Deus",
 };
 
 export default function RootLayout({ children }) {
